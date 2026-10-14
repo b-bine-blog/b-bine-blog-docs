@@ -13,7 +13,7 @@
 | [006-system-inquiry](006-system-inquiry/spec.md) | 시스템 문의(회원·비회원 → 관리자) | ADM-08(신설), SEC-13, D-112 | 0 |
 | [007-site-rules](007-site-rules/spec.md) | 운영 규칙 안내(삭제 시점·제한) | D-114, D-68, 4.5 | 0 |
 | [008-social-login](008-social-login/spec.md) | 소셜 로그인(구글·카카오·네이버) | USR-09(신설), D-125 | 0 |
-| [009-blog-chat](009-blog-chat/spec.md) | 블로그 채팅과 챗봇(명령어·관리 봇) | SOC-07(신설), D-131 | 3 |
+| [009-blog-chat](009-blog-chat/spec.md) | 블로그 채팅과 챗봇(명령어·관리 봇) | SOC-07(신설), D-131 | 3 (보류) |
 
 ## 확인 필요 항목
 
